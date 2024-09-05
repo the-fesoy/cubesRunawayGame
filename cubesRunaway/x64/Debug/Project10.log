@@ -1,0 +1,18 @@
+﻿  game.cpp
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(8,8): warning C4101: 'enemySpawnTimerMax': unreferenced local variable
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(7,8): warning C4101: 'enemySpawnTimer': unreferenced local variable
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(6,6): warning C4101: 'points': unreferenced local variable
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(9,6): warning C4101: 'maxEnemies': unreferenced local variable
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,91): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,91): warning C4244:         with
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,91): warning C4244:         [
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,91): warning C4244:             T=unsigned int
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,91): warning C4244:         ]
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,56): warning C4244:         with
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,56): warning C4244:         [
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,56): warning C4244:             T=unsigned int
+C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\Project10\game.cpp(34,56): warning C4244:         ]
+  Source.cpp
+  Generating Code...
+  Project10.vcxproj -> C:\Users\yusuf\Desktop\cpp-sfml projects\PTMI-game\x64\Debug\Project10.exe
